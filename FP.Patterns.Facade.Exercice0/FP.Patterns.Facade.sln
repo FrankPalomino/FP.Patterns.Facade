@@ -5,7 +5,9 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Facade", "FP.Patterns.Facade.csproj", "{253172F9-618A-4C28-9028-F4C22EB8F9CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.Facade.Exercice1", "..\FP.Patterns.Facade.Exercice1\FP.Patterns.Facade.Exercice1.csproj", "{2F158156-086D-4EDF-8018-7A0712ED899D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Facade.Exercice1", "..\FP.Patterns.Facade.Exercice1\FP.Patterns.Facade.Exercice1.csproj", "{2F158156-086D-4EDF-8018-7A0712ED899D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.Facade.Exercice2", "..\FP.Patterns.Facade.Exercice2\FP.Patterns.Facade.Exercice2.csproj", "{6D1855AD-1A76-452E-8F39-F43B1EFC69B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2F158156-086D-4EDF-8018-7A0712ED899D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F158156-086D-4EDF-8018-7A0712ED899D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F158156-086D-4EDF-8018-7A0712ED899D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D1855AD-1A76-452E-8F39-F43B1EFC69B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1855AD-1A76-452E-8F39-F43B1EFC69B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1855AD-1A76-452E-8F39-F43B1EFC69B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1855AD-1A76-452E-8F39-F43B1EFC69B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
